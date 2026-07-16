@@ -1,5 +1,5 @@
 # ModernWarefare2-keybind-fix
-# Fixes the keybinds on mw2.
+# Fixes the keybinds on mw2. Specifically, sets night vision to "J"
 
 # How To Implement
 First, go to the current location of your keybinds file, usually it is in `\Users\(your user)\Documents\Call of Duty MWII\players\`. There should be two folders here, one that says `cod22` and another that is some random number. Choose the random number folder, and find `keybinds.kb`.
